@@ -2,5 +2,5 @@
 hi
 
 ```math
-\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.7; pointer-events: none; background-image: url('https://camo.githubusercontent.com/cd5d33aca13d6736a9d9df224dd4bcfa90db993ab213479ac54468b2c4f95ba4/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3836333137363838323937353134363033342f313234383634303539393630333637353237312f6c61746573742e706e673f65783d36363634363661642669733d363636333135326426686d3d37303132386130353030326530306461633030323932623830633632363065633764626434366466633135343636363737643730646464393061653237643835263d26666f726d61743d77656270267175616c6974793d6c6f73736c657373');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.7; pointer-events: none; background-image: url('https://raw.githubusercontent.com/spaghettifying/spaghettifying/main/assets/pedro.gif');]{x0000}$}
 ```
